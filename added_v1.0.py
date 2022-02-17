@@ -1,2 +1,4 @@
+
+
 def Foo:
-    pass
+    return True
