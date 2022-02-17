@@ -1,4 +1,4 @@
 
 
-def Foo:
+def Testing:
     return True
