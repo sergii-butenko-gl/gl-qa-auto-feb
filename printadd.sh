@@ -155,7 +155,7 @@ urlencode() {
   local string="${1}"
   local strlen=${#string}
   local encoded=""
-  local pos c o
+  local pos c o  
 
   for (( pos=0 ; pos<strlen ; pos++ )); do
      c=${string:$pos:1}
