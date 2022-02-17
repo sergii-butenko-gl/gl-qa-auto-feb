@@ -1,4 +1,4 @@
 
 
-def BAR:
+def Foo:
     return True
